@@ -23,6 +23,6 @@ urlpatterns = [
     path('', include('CL.urls')),
 ]
 
-#admin.site.index_title = "Accounts Management System for IICT, SUST"
-#admin.site.site_header = "AMSI Admin Panel"
-#admin.site.site_title = "AMSI"
+admin.site.index_title = "SUST Management System"
+admin.site.site_header = "SUST Admin Panel"
+admin.site.site_title = "SUSTMS"
